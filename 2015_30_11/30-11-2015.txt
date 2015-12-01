@@ -1,0 +1,17 @@
+1.Find median of a given linked list (Sorted Linked List) 
+2.Merge two linked list which are in sorted order
+3.Add a node to the circular linked list
+4.Reverse an Linked list , using recursion (There are two approaches )
+5.Given three numbers n1,n2,and r. Merge the table of n1 and n2 and find the r th number. In merging it should eliminate duplicate values (tables consists the multiples of those numbers ,ie 3 contains 3,6,9,12..)
+Ex , n1=3 ,n2=5 and r=5, The merged table is 3,5,9,10,12,15(One more 15 is removed as its duplicate ) 18,20,21,24,25........so on .
+The rth num ie 5th number is 12 ,so OP is 12
+Extension ,what if n3,n4 .. are also given ?
+6.Write a program to add two linked list (Each node is represented by a digit ) (Note: Unequal Lengths can also be given )
+Ex: Input 1->2->3->4 and 1->2->3->4
+Output 2->4->6->8
+7.Sorted a linked list which is in ascending order but two numbers are changed ,i mean not in the usual order they need to be
+Ex: 1->2->3->15->10->4->20; O/p:1-2-3-4-10-15-20
+8.Given a linked list which is in pattern like combination of ascending and descending. Sort it.(First all ascending numbers occur ,next all descending nums )
+Note : min of descending part is greater than max of ascending 
+Ex: Input 1->2->7->20->15->10
+Output 1->2->7->10->15->20
